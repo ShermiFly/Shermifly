@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Sobre mí</h2>
+<h2 align="left">Mi música</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142549550&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=a85ffa&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
