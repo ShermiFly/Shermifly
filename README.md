@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/df6f9861-e02e-43a3-bfc8-f9a53f6e3b36/dg8zd0h-fa0c6781-053f-433c-9709-2697c04c16c7.png/v1/fill/w_1280,h_431,q_80,strp/banner___dreams_by_kenlothair_dg8zd0h-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDMxIiwicGF0aCI6IlwvZlwvZGY2Zjk4NjEtZTAyZS00M2EzLWJmYzgtZjlhNTNmNmUzYjM2XC9kZzh6ZDBoLWZhMGM2NzgxLTA1M2YtNDMzYy05NzA5LTI2OTdjMDRjMTZjNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.I8lnSiNG-XZpoY-fdv1Y3N8YnpOkLK_s1xyl7sl6CWw"  />
+  <img height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/df6f9861-e02e-43a3-bfc8-f9a53f6e3b36/dg8zd0h-fa0c6781-053f-433c-9709-2697c04c16c7.png/v1/fill/w_1280,h_431,q_80,strp/banner___dreams_by_kenlothair_dg8zd0h-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDMxIiwicGF0aCI6IlwvZlwvZGY2Zjk4NjEtZTAyZS00M2EzLWJmYzgtZjlhNTNmNmUzYjM2XC9kZzh6ZDBoLWZhMGM2NzgxLTA1M2YtNDMzYy05NzA5LTI2OTdjMDRjMTZjNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.I8lnSiNG-XZpoY-fdv1Y3N8YnpOkLK_s1xyl7sl6CWw"  />
 </div>
 
 ###
@@ -20,11 +20,7 @@
 
 ###
 
-<h2 align="left">Pipipipi</h2>
-
-###
-
-<p align="left">✨ <br>📚 <br>🎯 <br>🎲</p>
+<h2 align="left">Lenguajes</h2>
 
 ###
 
